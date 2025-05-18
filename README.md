@@ -150,7 +150,7 @@ python3 -m venv env
 Name: Ali Abdela
 - [@aliabdela47](https://www.github.com/aliabdela47)
 - ardii.2000@gmail.com
-- Phone: +2251913124747
+- Phone: +251913124747
 Name: Solomon Azene
 - [@solomonaz](https://www.github.com/solomonaz)
 - solomonaz2022@gmail.com
